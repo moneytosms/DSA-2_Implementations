@@ -1,0 +1,925 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"io",
+				"iostream"
+			],
+			[
+				"for",
+				"forv\tVector For Loop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "integral.cpp",
+			"settings":
+			{
+				"buffer_size": 758,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "integralpolygon.cpp",
+			"settings":
+			{
+				"buffer_size": 899,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAApAAAAICAgIC8vIFBpY2sncyB0aGVvcmVtOiBJID0gQXJlYSAtIEIvMiArIDE",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAgwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "input.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAOAAAANQoxIDIgMyA0IDUKNAo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAMCAwCjMgMAozIDIK",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "00"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": " 0"
+					},
+					"AgAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n0"
+					},
+					"AgAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " 5"
+					},
+					"AgAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "\n5"
+					},
+					"AgAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " 0"
+					},
+					"AgAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					9,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"CAAAAAoAAAAAAAAACgAAAAAAAAABAAAAMAgAAAAAAAAACAAAAAAAAAACAAAANSAHAAAAAAAAAAcAAAAAAAAAAQAAAAoGAAAAAAAAAAYAAAAAAAAAAQAAADUEAAAAAAAAAAQAAAAAAAAAAgAAADAgAwAAAAAAAAADAAAAAAAAAAEAAAAKAgAAAAAAAAACAAAAAAAAAAEAAAAwAAAAAAAAAAAAAAAAAAAAAAIAAAAwIA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "output.txt",
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAABFAAAARW50ZXIgbnVtYmVyIG9mIGludGVydmFsczogRW50ZXIgaW50ZXJ2YWxzIChzdGFydCBlbmQpIG9uZSBwZXIgbGluZToK",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					2,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAFAAAASEVMTE8AAAAAAAAAAAUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAFAAAASEVMTE8AAAAAAAAAAAUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAFAAAASEVMTE8AAAAAAAAAAAUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					2,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAFAAAASEVMTE8",
+					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"revert",
+					null,
+					"AwAAAAAAAAAAAAAAAAAAAAAAAABHAAAARW50ZXIgdHJpYW5nbGUgdmVydGljZXMgKHggeSkgb25lIHBlciBsaW5lOgpJbnRlcmlvciBsYXR0aWNlIHBvaW50czogMQoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAABAAAANgAAAAAAAAAABAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "info.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAANQ",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAANQ",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"revert",
+					null,
+					"BAAAAAAAAAAAAAAAAAAAAAAAAAB2AQAARDpcQ29sbGVnZVwzcmQgU2VtZXN0ZXJcSUNTMjE1XExhYiBkc2FcaW50ZWdyYWwuY3BwOiBJbiBmdW5jdGlvbiAnaW50IGJvdW5kYXJ5X29uX2VkZ2Uoc3RkOjpwYWlyPGludCwgaW50Piwgc3RkOjpwYWlyPGludCwgaW50PiknOgpEOlxDb2xsZWdlXDNyZCBTZW1lc3RlclxJQ1MyMTVcTGFiIGRzYVxpbnRlZ3JhbC5jcHA6OTo2ODogZXJyb3I6ICdnY2QnIHdhcyBub3QgZGVjbGFyZWQgaW4gdGhpcyBzY29wZQogICAgIHJldHVybiBnY2QoYWJzKHAyLmZpcnN0IC0gcDEuZmlyc3QpLCBhYnMocDIuc2Vjb25kIC0gcDEuc2Vjb25kKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXgoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAB2AQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"delet",
+				"ANF: Delete Current File"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"build",
+				"Build With: Python"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"term",
+				"Package Control: Remove Package"
+			],
+			[
+				"termin",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"main",
+				"Snippet: main()"
+			],
+			[
+				"Snippet: ",
+				"Snippet: cpptemplate"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.800003052,
+		"history":
+		[
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/College/3rd Semester/ICS215/Lab dsa"
+	],
+	"file_history":
+	[
+		"/D/College/3rd Semester/ICS215/Lab dsa/integralpolygon.cpp",
+		"/D/College/3rd Semester/ICS215/Lab dsa/integral.cpp",
+		"/D/College/3rd Semester/ICS215/Lab dsa/collinear.cpp",
+		"/D/College/3rd Semester/ICS215/Lab dsa/klees.cpp",
+		"/D/College/3rd Semester/ICS215/Lab dsa/bubble_sort.cpp",
+		"/D/College/3rd Semester/ICS214/Lab Python/bioinf.py",
+		"/D/College/3rd Semester/ICS214/Lab Python/test.py",
+		"/D/College/3rd Semester/ICS214/Lab Python/sms.py",
+		"/D/College/3rd Semester/ICS214/Lab Python/pkg.py",
+		"/C/Users/money/AppData/Roaming/Sublime Text/Packages/User/python_build.sublime-build",
+		"/D/College/3rd Semester/ICS214/Lab Python/hello.py",
+		"/D/College/3rd Semester/Miscellaneous/Compettitive Programming/June 2025/info.txt",
+		"/D/College/3rd Semester/Miscellaneous/Compettitive Programming/June 2025/output.txt",
+		"/D/College/3rd Semester/Miscellaneous/Compettitive Programming/June 2025/input.txt",
+		"/D/College/3rd Semester/Miscellaneous/Compettitive Programming/June 2025/a.cpp",
+		"/C/Users/money/AppData/Roaming/Sublime Text/Packages/User/Snippets/Helper/bin_search.sublime-snippet",
+		"/C/Users/money/AppData/Roaming/Sublime Text/Packages/User/Snippets/Helper/vecinput.sublime-snippet",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/test2/info.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/test2/output.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/test2/input.txt",
+		"/C/Users/money/2025/a.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/codephilia summer/F.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/codephilia summer/E.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/codephilia summer/D.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/codephilia summer/C.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/codephilia summer/B.cpp",
+		"/C/Users/money/AppData/Roaming/Sublime Text/Packages/User/Snippets/Helper/cpptemplate.sublime-snippet",
+		"/C/Users/money/AppData/Roaming/Sublime Text/Packages/User/Snippets/Helper/debug.sublime-snippet",
+		"/C/Users/money/Programming/June",
+		"/C/Users/money/Semester/Miscellaneous/Compettitive",
+		"/D/College/3rd",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/test2/A.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/codephilia summer/A.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/codephilia summer/info.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/codephilia summer/output.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/codephilia summer/input.txt",
+		"/C/Users/money/AppData/Roaming/Sublime Text/Packages/C#.sublime-package",
+		"/C/Users/money/AppData/Roaming/Sublime Text/Packages/User/Vibhaas.sublime-build",
+		"/C/Users/money/AppData/Roaming/Sublime Text/Packages/C++.sublime-package",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/test2/F.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/test2/E.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/test2/D.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/test2/C.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/test2/B.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/Random Contest 122(8=2-25)/info.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/Random Contest 122(8=2-25)/output.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/Random Contest 122(8=2-25)/input.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/Random Contest 122(8=2-25)/F.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/Random Contest 122(8=2-25)/E.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/Random Contest 122(8=2-25)/D.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/Random Contest 122(8=2-25)/C.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/Random Contest 122(8=2-25)/B.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/Random Contest 122(8=2-25)/A.cpp",
+		"/C/Users/money/AppData/Roaming/Sublime Text/Packages/User/Vibhaas",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/gdgopen/output.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/gdgopen/info.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/gdgopen/F.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/gdgopen/E.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/gdgopen/D.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/gdgopen/C.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/gdgopen/B.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/gdgopen/A.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/gdgopen/input.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/lol/info.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/lol/output.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/lol/input.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/lol/F.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/lol/E.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/lol/D.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/lol/C.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/lol/B.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/lol/A.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hellooo/info.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/tester/info.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hellooo/output.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/tester/output.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hellooo/input.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/tester/input.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/tester/F.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/tester/E.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/tester/D.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/tester/C.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/tester/B.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hellooo/F.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hellooo/E.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hellooo/D.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hellooo/C.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hellooo/B.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hellooo/A.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/tester/A.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hi/info.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hi/output.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hi/input.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hi/F.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hi/E.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hi/D.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hi/C.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hi/B.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hi/A.cpp",
+		"/D/College/2nd Semester/Club Activities/Coder's Club/Session Problems/info.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hell/info.txt",
+		"/D/College/2nd Semester/Club Activities/Coder's Club/Session Problems/output.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hell/output.txt",
+		"/D/College/2nd Semester/Club Activities/Coder's Club/Session Problems/input.txt",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hell/input.txt",
+		"/D/College/2nd Semester/Club Activities/Coder's Club/Session Problems/A.cpp",
+		"/D/College/2nd Semester/Miscallaneous/Compettitive Programming/hello/B.cpp",
+		"/D/College/2nd Semester/Miscallaneous/Compettitive Programming/hello/C.cpp",
+		"/D/College/2nd Semester/Miscallaneous/Compettitive Programming/hello/D.cpp",
+		"/D/College/2nd Semester/Miscallaneous/Compettitive Programming/hello/E.cpp",
+		"/D/College/2nd Semester/Miscallaneous/Compettitive Programming/hello/F.cpp",
+		"/D/College/2nd Semester/Club Activities/Coder's Club/Session Problems/B.cpp",
+		"/D/College/2nd Semester/Club Activities/Coder's Club/Session Problems/E.cpp",
+		"/D/College/2nd Semester/Club Activities/Coder's Club/Session Problems/F.cpp",
+		"/D/College/2nd Semester/Club Activities/Coder's Club/Session Problems/C.cpp",
+		"/D/College/2nd Semester/Club Activities/Coder's Club/Session Problems/D.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hell/F.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hell/E.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hell/D.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hell/C.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hell/B.cpp",
+		"/D/College/2nd Semester/Miscellaneous/Competitive Programming/hell/A.cpp",
+		"/D/College/2nd Semester/Miscallaneous/Compettitive Programming/hello/A.cpp",
+		"/D/College/2nd Semester/Miscallaneous/Compettitive Programming/hello/info.txt",
+		"/D/College/2nd Semester/Miscallaneous/Compettitive Programming/hello/input.txt",
+		"/D/College/2nd Semester/Miscallaneous/Compettitive Programming/hello/output.txt"
+	],
+	"find":
+	{
+		"height": 44.8
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gcd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "integral.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								663,
+								663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "integralpolygon.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "input.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "output.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "info.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.6,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				3
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			],
+			[
+				1,
+				2,
+				2,
+				3
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.724479166667,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.344574780059,
+			0.688416422287,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 41.6,
+		"history":
+		[
+			"clear",
+			"15",
+			"5",
+			"15",
+			"5",
+			"15",
+			"5",
+			"15",
+			"5",
+			"15",
+			"5"
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/User/Vibhaas.sublime-build",
+	"project": "sublime_cpp.sublime-project",
+	"replace":
+	{
+		"height": 60.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inte",
+				"integralpolygon.cpp"
+			],
+			[
+				"integ",
+				"integralpolygon.cpp"
+			],
+			[
+				"kle",
+				"klees.cpp"
+			],
+			[
+				"collin",
+				"collinear.cpp"
+			],
+			[
+				"info",
+				"info.txt"
+			],
+			[
+				"",
+				"bubble_sort.cpp"
+			],
+			[
+				"out",
+				"output.txt"
+			],
+			[
+				"inpu",
+				"input.txt"
+			],
+			[
+				"pk",
+				"pkg.py"
+			],
+			[
+				"test",
+				"test.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

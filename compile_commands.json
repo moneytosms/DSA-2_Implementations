@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-o",
+      "main",
+      "histo.cpp"
+    ],
+    "directory": "/mnt/d/College/3rd Semester/ICS215/Lab dsa",
+    "file": "/mnt/d/College/3rd Semester/ICS215/Lab dsa/histo.cpp",
+    "output": "/mnt/d/College/3rd Semester/ICS215/Lab dsa/main"
+  }
+]
